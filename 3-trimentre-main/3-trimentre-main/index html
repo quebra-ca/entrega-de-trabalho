@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <main>
+        <section id="container">
+            <article class="cartao">
+                <div class="cartao_conteudo"></div>
+                    <h3>Programação</h3>
+                    <div class="cartão_conteúdo_pergunta"
+                        O que é JavaScript?
+            </div>
+                    <div class="cartão_conteúdo_resposta"></div>
+                         O css é uma linguagem de esterelização
+
+        </div>
+    </div>
+</article>
